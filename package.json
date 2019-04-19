@@ -1,7 +1,7 @@
 {
   "name": "website-redirect",
   "version": "1.0.0",
-  "description": "Redirect our old domain to the new one.",
+  "description": "Redirect everything to frontconference.com",
   "scripts": {
     "deploy": "npx now && npx now alias"
   },

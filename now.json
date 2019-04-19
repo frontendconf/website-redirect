@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "alias": ["frontendconf.ch"],
+  "alias": ["frontendconf.ch", "www.frontconference.com"],
   "routes": [
     {
       "src": "/(.*)",
